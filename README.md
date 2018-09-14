@@ -1,10 +1,6 @@
-# nodejs-restful-api
-![RESTful API design with Node.js](https://cdn-images-1.medium.com/max/2000/1*jjYC9tuf4C3HkHCP5PcKTA.jpeg "RESTful API design with Node.js")
+##Restful api
+Restful API with Authentication and Authorization using JWT in Nodejs
 
-How to create a RESTful CRUD API with Authentication using Nodejs?
-
-This tutorial will demo how to set up a bare bones 
-API using mongodb as the database.
 
 It consist of a User model and controller. The model
 defines the data, and the controller will contain all 
