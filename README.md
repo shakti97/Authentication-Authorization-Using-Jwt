@@ -1,4 +1,7 @@
-##Restful api
+Restful api
+
+Test this Using any rest api testing tool of your chioce, I used Postman
+
 Restful API with Authentication and Authorization using JWT in Nodejs
 
 
